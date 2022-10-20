@@ -1,0 +1,17 @@
+
+#primeiro{
+    font-weight: 700;
+    line-height: 1.25rem;
+    color: var(--Brigh_Yellow);
+}
+#segundo{
+    line-height: 1.625rem;
+    color: var(--Grayish_Blue);
+    font-style: 0.0875;
+}
+.superior{
+    padding-top:2rem;
+    padding-bottom: 2rem;
+    padding-left: 1.5rem;
+    padding-right:1.5rem; 
+}

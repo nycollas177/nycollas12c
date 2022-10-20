@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Karla' , sans-serif;
+}
+main{
+        padding-top:4.5rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+}
+h1{
+    font-style: 1.25rem;
+    color: var(--Cyan);
+    line-height: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+h2{
+    font-style: 1.35rem;
+    line-height: 1.375rem;
+    color: rgb(255, 255,255);
+}
+
+body{
+    color: var(--Light_Gray);
+}
